@@ -10,10 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@expo/metro-runtime": "^57.0.16",
     "canvas-confetti": "^1.9.4",
+    "expo": "^57.0.24",
     "lucide-react": "^1.47.0",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-native": "^0.87.1"
   },
   "devDependencies": {
     "@types/react": "^19.2.18",
